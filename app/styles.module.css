@@ -1,0 +1,11 @@
+.webLogo{
+    transition-duration: 0.2s;
+    display: inline-block;
+    width: 50px;
+    height: auto;
+}
+
+.webLogo:hover{
+    transform: scale(1.5) rotate(30deg);
+    transition-duration: 0.2s;
+}
